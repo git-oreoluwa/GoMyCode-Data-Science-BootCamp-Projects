@@ -1,4 +1,4 @@
-# Data Science & Programming Portfolio -Phrase 1
+# Data Science & Programming Portfolio -Phase 1
 
 Welcome to my portfolio! This repository contains a collection of projects completed during my Data Science Bootcamp. These projects demonstrate my progression from fundamental Python programming to advanced data manipulation and database querying.
 
